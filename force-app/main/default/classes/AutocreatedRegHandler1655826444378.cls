@@ -9,6 +9,7 @@ global boolean canCreateUser(Auth.UserData data) {
     //if(s.contains(data.username)) {
         //return true;
     //}
+    
     return false;
 }
 
