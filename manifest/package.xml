@@ -4,5 +4,10 @@
 		<members>User.NoUsernameChangesAllowed</members>
 		<name>ValidationRule</name>
 	</types>
+	<types>
+		<members>User.NoUsernameChangesAllowed</members>
+		<name>ApexClass</name>
+	</types>
+	
 	<version>55.0</version>
 </Package>
